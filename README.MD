@@ -10,6 +10,6 @@ cd react_example
 
 npm install
 
-npm run dev or npm run prod
+npm run dev *or* npm run prod
 
 open index.html in browser
